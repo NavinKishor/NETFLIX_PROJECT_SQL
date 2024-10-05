@@ -5,8 +5,8 @@ This is an analysis of the content on Netflix using SQL queries. The data set co
 # Dataset
 The dataset in use, netflix_titles.csv contains the attributes as listed below
 
--Title: Name of the series or film
--Type: Movie or TV series
+- **Title: Name of the series or film
+- **Type: Movie or TV series
 -Director: Director of the title
 -Cast: The people who acted in the title
 -Country: Country of origin of the title
